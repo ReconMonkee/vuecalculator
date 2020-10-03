@@ -1,4 +1,10 @@
+
 # vuecalculator
+
+## About
+```
+A small project to learn and understand the basics of Vue and get a handle on how everything works.
+```
 
 ## Project setup
 ```
